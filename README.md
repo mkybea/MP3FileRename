@@ -1,5 +1,5 @@
 # MP3FileRename
-A program that renames media files within a directory based on their metadata.
+A Python program that renames media files within a directory based on their metadata.
 
 This was a final project for a college level Python course in 2019.  The code in MP3FileRename.py is my own. The other files and modules used to help create this program are listed below and the versions used are included in this repository.
 
