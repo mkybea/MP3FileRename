@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Final Project: A program that renames media files within a directory based on their metadata.
+Final Project: A program that renames media files within a directory based on their metadata using a simple GUI.
 
 Author: Katie
 
